@@ -1,4 +1,4 @@
-endereco = "Avenida Atlantica, 1260, apartamento 801, Copacabana, Rio de Janeiro, RJ, Brasil, 22021000"
+endereco = "Rua São João, 110, apartamento 900, Itaboraí, Rio de Janeiro, RJ, Brasil, 22021000"
 
 import re #Regular Expressions
 
